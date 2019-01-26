@@ -12,4 +12,4 @@ Features
 ----------
 
 1. Adding new heroes (my classmates in college)
-2. Adding new skill for heroes
+2. Adding new skills for heroes
